@@ -1,13 +1,18 @@
 export const colors = {
   white: "255, 255, 255",
   black: "0, 0, 0",
-  dark: "7, 7, 8",
-  grey: "34, 34, 34",
-  blue: "39, 68, 148",
-  yellow: "235, 211, 0",
-  orange: "255,102,0",
-  green: "78, 234, 118",
-  red: "214, 75, 71"
+  dark: "12, 12, 13",
+  grey: "169, 169, 188",
+  darkGrey: "113, 119, 138",
+  lightGrey: "212, 212, 212",
+  blue: "101, 127, 230",
+  lightBlue: "64, 153, 255",
+  yellow: "250, 188, 45",
+  orange: "246, 133, 27",
+  green: "84, 209, 146",
+  pink: "255, 51, 102",
+  red: "214, 75, 71",
+  purple: "110, 107, 233"
 };
 
 export const fonts = {
@@ -15,13 +20,13 @@ export const fonts = {
     tiny: "10px",
     small: "14px",
     medium: "16px",
-    large: "20px",
-    h1: "48px",
-    h2: "40px",
-    h3: "33px",
-    h4: "28px",
-    h5: "23px",
-    h6: "19px"
+    large: "18px",
+    h1: "60px",
+    h2: "50px",
+    h3: "40px",
+    h4: "32px",
+    h5: "24px",
+    h6: "20px"
   },
   weight: {
     normal: 400,

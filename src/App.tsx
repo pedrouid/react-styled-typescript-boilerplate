@@ -13,17 +13,18 @@ const SApp = styled.div`
 `;
 
 const SAppHeader = styled.header`
-  background-color: rgb(${colors.grey});
+  background-color: rgb(${colors.dark});
   padding: 10px;
   color: rgb(${colors.white});
 `;
 
 const SAppLogo = styled.img`
   animation: ${logoSpin} infinite 20s linear;
+  margin-top: 10px;
   height: 100px;
 `;
 
-const SAppTitle = styled.h1`
+const SAppTitle = styled.h3`
   margin: 20px auto;
 `;
 
